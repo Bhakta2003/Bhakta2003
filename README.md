@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Bhakta Baschhal Sahoo, a 21-year-old 3rd-year student at Silicon University, Bhubaneswar.<br>💻 I'm passionate about Web Development and specialize as a Full Stack MERN Developer.<br>🚀 I'm currently looking for internship opportunities to apply and grow my skills in real-world projects.<br>💡I like to sketch and paint 
+👋 Hi, I'm Bhakta Baschhal Sahoo, a 22-year-old 4th-year student at Silicon University, Bhubaneswar.<br>💻 I'm passionate about Web Development and specialize as a Full Stack MERN Developer.<br>🚀 I'm currently looking for internship opportunities to apply and grow my skills in real-world projects.<br>💡I like to sketch and paint 
 
 
 ## 🌐 Socials:
